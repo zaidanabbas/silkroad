@@ -18,7 +18,7 @@ export function Header() {
 					<div class="w-[2px] h-5 bg-neutral-200 mx-3"></div>
 					<a class="text-brand text-xl cursor-not-allowed">orders <b>0</b></a>
 					<div class="w-[2px] h-5 bg-neutral-200 mx-3"></div>
-					<a class="text-brand text-xl cursor-not-allowed">account <b>&#8383;0.000</b></a>
+					<a class="text-brand text-xl cursor-not-allowed">account <b>&#8383;0.106</b></a>
 					<div class="flex flex-col ml-auto mr-[-15px]">
 						<a href={meta.guide}>
 							<p class="text-end text-neutral-400 text-md">a few guides from</p>
