@@ -1,13 +1,13 @@
-const plainurl = 'yuuire.com'
+const plainurl = 'azaidan.com'
 
 export const meta = {
-    author: 'yuuire',
-    title: 'yuuire',
+    author: 'pharaoh',
+    title: 'pharaoh',
     description: 'Fullstack Unicorn Developer',
     plainurl: plainurl,
     guide: 'https://guide.' + plainurl,
-    repo: 'https://github.com/yuuire/silk-road-marketplace',
-    email: 'yuuire//airmail.cc',
+    repo: 'https://github.com/zaidanabbas/silkroad',
+    email: 'info@azaidan.com',
     sponsor: 'https://liberapay.com/yuuire/donate',
     matrix: '@yuuire:envs.net',
 }
